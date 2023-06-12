@@ -1,0 +1,11 @@
+.nabbar{
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 100%;
+    height: 100px;
+    color: aqua;
+    background-color:rgb(2, 13, 26) ;
+}
+#nab{
+    visibility: hidden;
+}
