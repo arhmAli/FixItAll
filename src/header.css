@@ -1,0 +1,30 @@
+.box{
+    display: flex;
+    width: 40%;
+    background-color: rgb(2, 13, 26);
+    margin-top: -4%;
+    margin-left: 31%;
+    border-radius: 2%;
+    justify-content: center;
+    /* background-image: url("./assets/my-image.jpg"); */
+}
+h1{
+    font-size:3rem ;
+    padding:5% 0;
+    margin-left: 5%;
+    margin-top: 10%;
+    box-sizing: border-box;
+    color: #fff;
+}
+.name{
+    font-style: italic;
+    color: rgb(253, 116, 5);
+}
+@media (max-width: 767px) {
+    .box{
+        width: 60%;
+    }
+    h1{
+        font-size: 2rem;
+    }
+  }
