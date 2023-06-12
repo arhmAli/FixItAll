@@ -1,0 +1,32 @@
+.text{
+    margin-top: 15%;
+    margin-left: 5%;
+    color: rgb(255, 255, 255);
+}
+.Hero-text{
+    position: absolute;
+    margin-top: -2%;
+    margin-left: 1%;
+    font-size: 2rem;
+}
+.text-ini{
+    font-size: 1.5rem
+}
+.slider{
+    margin-left: 20%;
+}
+.paragraph{
+    display: flex;
+    margin-top: -10%;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.1rem;
+}
+@media (max-width: 767px) {
+    .Hero-text{
+        margin-top: -10%;
+    }
+    .paragraph{
+        margin-top: 25%;
+    }
+  }
