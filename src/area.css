@@ -1,0 +1,14 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+.areas{
+    color: #fff;
+}
+li{
+    font-size: 1.5rem;
+}
+h3{
+    margin-left: 10px;
+}
